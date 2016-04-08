@@ -14,6 +14,7 @@ public class HelloJni extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.layout_1);
 		//abc
+		//defaaa
 
 	}
 
