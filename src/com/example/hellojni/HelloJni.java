@@ -13,6 +13,7 @@ public class HelloJni extends Activity {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.layout_1);
+		//≤‚ ‘
 		/*
 		 * Create a TextView and set its content. the text is retrieved by
 		 * calling a native function.
